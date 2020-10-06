@@ -1,0 +1,9 @@
+id_col,num_col_1,num_col 2,text_col_1,text_col 2,num_bool_col_1,bool_col_1
+0,1,1.0,Some,Some,0,"True"
+1,2,2.0,Little,Little more texting,1,"False"
+2,1,1.0,Some,Some more text fill,0,"True"
+2,1,1.1,Some,Some more text fill,0,"True"
+3,2,,,Little more textin,1,"False"
+4,1,2.0,Some text,Some more text fill,0,"True"
+4,1,2.0,Some text,Some more text fill,0,"True"
+5,2,3.0,Little,Little more texting,1,"False"
