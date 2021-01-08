@@ -15,4 +15,5 @@ USER ${NB_USER}
 RUN pip install 'bamboolib>=1.18.1'
 RUN pip install --upgrade bamboolib
 RUN pip install -U pandas-profiling[notebook]
+RUN pip install pycaret
 RUN python -m bamboolib install_nbextensions
